@@ -4,6 +4,8 @@
 
 .header {
     background-image: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url("./Images/PublicImages/image-2.jpg");
+    background-size: cover;
+    background-position: bottom;
     opacity: var(--mainOpacity);
     height: 25em !important;
 }
@@ -23,16 +25,19 @@ background-color: #a88644;
 
 .col-image-left {
     background-image: url("./Images/PublicImages/image-4.jpg");
+    background-size: cover;
     height: 25em !important;
 }
 
 .col-image-right {
     background-image: url("./Images/PublicImages/image-1.jpg");
+    background-size: cover;
     height: 25em !important;
 }
 
 .lost-image {
     background-image: url("./Images/PublicImages/image-3.jpg");
+    background-size: cover;
     height: 25em !important;
     width: "720"
 }

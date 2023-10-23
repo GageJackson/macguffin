@@ -2,12 +2,16 @@ import React from 'react';
 import './App.css';
 import {Navbar} from "./layouts/NavbarAndFooter/Navbar";
 import {ExploreTopCoffees} from "./layouts/HomePage/ExploreTopCoffees";
+import {Carousel} from "./layouts/HomePage/Carousel";
+import {Heroes} from "./layouts/HomePage/Heroes";
 
 function App() {
   return (
       <>
-        <Navbar/>
-        <ExploreTopCoffees/>
+          <Navbar/>
+          <ExploreTopCoffees/>
+          <Carousel/>
+          <Heroes/>
       </>
   );
 }
