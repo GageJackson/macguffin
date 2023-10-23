@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2450fa24-4a52-4ab5-bff8-c83b8920ccde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/NavbarAndFooter/Navbar.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/react-frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/react-frontend/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/react-frontend/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/react-frontend/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/react-frontend/src/App.test.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/react-frontend/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/react-frontend/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/react-frontend/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/react-frontend/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/react-frontend/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/react-frontend/src/reportWebVitals.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/react-frontend/src/setupTests.ts" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697827713839</updated>
-      <workItem from="1697827715403" duration="3618000" />
+      <workItem from="1697827715403" duration="4844000" />
     </task>
     <servers />
   </component>
