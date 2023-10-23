@@ -4,7 +4,7 @@ export const ReturnCoffee = () => {
     return (
         <div className={'col-xs-6 col-sm-6 col-md-4 col-lg-3 mb-3'}>
             <div className={'text-center'}>
-                <img src={require('./../../Images/CoffeeImages/new-coffee.png')}
+                <img src={require('../../../Images/CoffeeImages/new-coffee.png')}
                      width={'151'}
                      height={'233'}
                      alt={'coffee'}

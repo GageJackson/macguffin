@@ -39,7 +39,7 @@ background-color: #a88644;
     background-image: url("./Images/PublicImages/image-3.jpg");
     background-size: cover;
     height: 25em !important;
-    width: "720"
+    /*width: 720px;*/
 }
 
 .homepage-carousel-title {

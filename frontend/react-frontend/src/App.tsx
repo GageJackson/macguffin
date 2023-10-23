@@ -1,19 +1,15 @@
 import React from 'react';
 import './App.css';
 import {Navbar} from "./layouts/NavbarAndFooter/Navbar";
-import {ExploreTopCoffees} from "./layouts/HomePage/ExploreTopCoffees";
-import {Carousel} from "./layouts/HomePage/Carousel";
-import {Heroes} from "./layouts/HomePage/Heroes";
+import {Footer} from "./layouts/NavbarAndFooter/Footer";
+import {HomePage} from "./layouts/HomePage/HomePage";
 
-function App() {
-  return (
-      <>
-          <Navbar/>
-          <ExploreTopCoffees/>
-          <Carousel/>
-          <Heroes/>
-      </>
-  );
+export const App = () => {
+    return (
+        <>
+            <Navbar/>
+            <HomePage/>
+            <Footer/>
+        </>
+    );
 }
-
-export default App;

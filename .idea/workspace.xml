@@ -5,12 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2450fa24-4a52-4ab5-bff8-c83b8920ccde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/HomePage/Carousel.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/HomePage/Heroes.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/HomePage/ReturnCoffee.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/HomePage/Components/MacguffinServices.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/HomePage/HomePage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/NavbarAndFooter/Footer.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/react-frontend/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/react-frontend/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/react-frontend/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/react-frontend/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/react-frontend/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/react-frontend/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/HomePage/Carousel.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/HomePage/Components/Carousel.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/HomePage/ExploreTopCoffees.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/HomePage/Components/ExploreTopCoffees.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/HomePage/Heroes.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/HomePage/Components/Heroes.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/HomePage/ReturnCoffee.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/HomePage/Components/ReturnCoffee.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +48,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wgage\IdeaProjects\macguffin\frontend\react-frontend\src\layouts\HomePage\Components" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -51,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697827713839</updated>
-      <workItem from="1697827715403" duration="8633000" />
+      <workItem from="1697827715403" duration="11322000" />
     </task>
     <servers />
   </component>
