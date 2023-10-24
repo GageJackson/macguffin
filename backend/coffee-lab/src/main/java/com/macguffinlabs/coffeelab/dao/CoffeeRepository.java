@@ -1,4 +1,7 @@
 package com.macguffinlabs.coffeelab.dao;
 
-public interface CoffeeRepository {
+import com.macguffinlabs.coffeelab.entity.Coffee;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface CoffeeRepository extends JpaRepository<Coffee, Long> {
 }

@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2450fa24-4a52-4ab5-bff8-c83b8920ccde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/backend/coffee-lab/src/main/java/com/macguffinlabs/coffeelab/dao/CoffeeRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/coffee-lab/src/main/java/com/macguffinlabs/coffeelab/entity/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/coffee-lab/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/coffee-lab/src/main/java/com/macguffinlabs/coffeelab/config/MyDataRestConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/Utils/SpinnerLoading.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/react-frontend/src/models/CoffeeModel.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/coffee-lab/src/main/java/com/macguffinlabs/coffeelab/dao/CoffeeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/coffee-lab/src/main/java/com/macguffinlabs/coffeelab/dao/CoffeeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/coffee-lab/src/main/java/com/macguffinlabs/coffeelab/entity/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/coffee-lab/src/main/java/com/macguffinlabs/coffeelab/entity/Coffee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/HomePage/Components/Carousel.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/HomePage/Components/Carousel.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/HomePage/Components/ReturnCoffee.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/HomePage/Components/ReturnCoffee.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,13 +24,26 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="ff4bff74-789a-4aba-899e-d90191a87635" />
+        <option name="url" value="git@github.com:GageJackson/macguffin.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -44,8 +63,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/wgage/IdeaProjects/macguffin/backend/coffee-lab/src/main/resources",
     "node.js.detected.package.eslint": "true",
@@ -55,6 +79,11 @@
     "nodejs_package_manager_path": "npm",
     "ts.external.directory.path": "C:\\Users\\wgage\\IdeaProjects\\macguffin\\frontend\\react-frontend\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -82,7 +111,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697827713839</updated>
-      <workItem from="1697827715403" duration="13995000" />
+      <workItem from="1697827715403" duration="21183000" />
     </task>
     <servers />
   </component>
