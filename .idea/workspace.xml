@@ -5,28 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2450fa24-4a52-4ab5-bff8-c83b8920ccde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/HomePage/Components/MacguffinServices.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/HomePage/HomePage.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/NavbarAndFooter/Footer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/coffee-lab/src/main/java/com/macguffinlabs/coffeelab/dao/CoffeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/coffee-lab/src/main/java/com/macguffinlabs/coffeelab/entity/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/coffee-lab/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/react-frontend/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/react-frontend/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/react-frontend/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/react-frontend/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/react-frontend/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/react-frontend/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/HomePage/Carousel.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/HomePage/Components/Carousel.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/HomePage/ExploreTopCoffees.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/HomePage/Components/ExploreTopCoffees.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/HomePage/Heroes.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/HomePage/Components/Heroes.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/HomePage/ReturnCoffee.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/HomePage/Components/ReturnCoffee.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="2X2WZciz5xjDPjUEzz2QGsUMvZx" />
   <component name="ProjectViewState">
@@ -39,6 +47,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/wgage/IdeaProjects/macguffin/backend/coffee-lab/src/main/resources",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -49,9 +58,21 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wgage\IdeaProjects\macguffin\backend\coffee-lab\src\main\resources" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\wgage\IdeaProjects\macguffin\frontend\react-frontend\src\layouts\HomePage\Components" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CoffeeLabApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="coffee-lab" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.macguffinlabs.coffeelab.CoffeeLabApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -61,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697827713839</updated>
-      <workItem from="1697827715403" duration="11322000" />
+      <workItem from="1697827715403" duration="13995000" />
     </task>
     <servers />
   </component>
