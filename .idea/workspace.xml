@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2450fa24-4a52-4ab5-bff8-c83b8920ccde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/coffee-lab/src/main/java/com/macguffinlabs/coffeelab/config/MyDataRestConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/Utils/SpinnerLoading.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/react-frontend/src/models/CoffeeModel.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a7280000-3f4b-49d7-a9cb-f2907a09fca0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/a7280000-3f4b-49d7-a9cb-f2907a09fca0.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/coffee-lab/src/main/java/com/macguffinlabs/coffeelab/dao/CoffeeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/coffee-lab/src/main/java/com/macguffinlabs/coffeelab/dao/CoffeeRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/coffee-lab/src/main/java/com/macguffinlabs/coffeelab/entity/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/coffee-lab/src/main/java/com/macguffinlabs/coffeelab/entity/Coffee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/HomePage/Components/Carousel.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/HomePage/Components/Carousel.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/HomePage/Components/ReturnCoffee.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/HomePage/Components/ReturnCoffee.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,11 +25,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -60,32 +53,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/wgage/IdeaProjects/macguffin/backend/coffee-lab/src/main/resources",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "C:\\Users\\wgage\\IdeaProjects\\macguffin\\frontend\\react-frontend\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/wgage/IdeaProjects/macguffin&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;cb8c9d5fb736a10f5c011b37ca0221a7&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\IntelliJ IDEA 2023.1.3\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\wgage\IdeaProjects\macguffin\backend\coffee-lab\src\main\resources" />
@@ -111,7 +105,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697827713839</updated>
-      <workItem from="1697827715403" duration="21183000" />
+      <workItem from="1697827715403" duration="22007000" />
+      <workItem from="1698266287650" duration="1034000" />
+      <workItem from="1698284255762" duration="47000" />
+      <workItem from="1698284311021" duration="29000" />
+      <workItem from="1698284374096" duration="197000" />
+      <workItem from="1698284596025" duration="28000" />
+      <workItem from="1698284625230" duration="346000" />
     </task>
     <servers />
   </component>
