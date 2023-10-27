@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2450fa24-4a52-4ab5-bff8-c83b8920ccde" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a7280000-3f4b-49d7-a9cb-f2907a09fca0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/a7280000-3f4b-49d7-a9cb-f2907a09fca0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/SearchCoffeesPage/Components/SearchCoffee.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/SearchCoffeesPage/SearchCoffeePage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/Utils/Pagination.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/coffee-lab/src/main/java/com/macguffinlabs/coffeelab/dao/CoffeeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/coffee-lab/src/main/java/com/macguffinlabs/coffeelab/dao/CoffeeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/react-frontend/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/react-frontend/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/react-frontend/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/react-frontend/src/App.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/HomePage/Components/Carousel.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/react-frontend/src/layouts/HomePage/Components/Carousel.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -112,6 +118,7 @@
       <workItem from="1698284374096" duration="197000" />
       <workItem from="1698284596025" duration="28000" />
       <workItem from="1698284625230" duration="346000" />
+      <workItem from="1698422714566" duration="9277000" />
     </task>
     <servers />
   </component>
