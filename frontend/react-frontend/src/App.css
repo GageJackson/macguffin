@@ -57,3 +57,7 @@ background-color: #a88644;
     pointer-events: none;
     cursor: default;
  }
+
+.fakeClass {
+    background-color: lime;
+}
